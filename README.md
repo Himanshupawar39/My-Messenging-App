@@ -63,10 +63,6 @@ In upcoming updates, I plan to add:
 
 ---
 
-## 📹 Demo Video
-🎥 *Check out a short demonstration of the app in action!*  
-👉 [Add your video link here once uploaded]
-
 ---
 
 ## 💻 GitHub Repository
@@ -93,8 +89,8 @@ It combines **real-time performance**, **clean UI**, and **scalable architecture
 
 ### 🌐 Connect with Me
 If you’d like to collaborate, review the code, or share feedback — feel free to reach out! 😊  
-📧 [Your Email]  
-💼 [LinkedIn Profile Link]  
+📧 pawarhimanshu101@gmail.com
+💼 https://www.linkedin.com/in/himanshu-pawar-936083315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
